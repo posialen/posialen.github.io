@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://posialen.github.io/sitemap.posialen.gz
+Sitemap: https://posialen.github.io/app/sitemap.posialen.gz
+Sitemap: https://posialen.github.io/assets/sitemap.posialen.gz
+Sitemap: https://posialen.github.io/css/sitemap.posialen.gz
+Sitemap: https://posialen.github.io/data/sitemap.posialen.gz
+Sitemap: https://posialen.github.io/includes/sitemap.posialen.gz
+Sitemap: https://posialen.github.io/item/sitemap.posialen.gz
+Sitemap: https://posialen.github.io/src/sitemap.posialen.gz
